@@ -1,0 +1,18 @@
+@charset "utd-8";
+html body{
+	width:1500px;
+	background-color:#f8f8f8;
+	margin:0 auto;
+}
+.header{
+	height: 350px;
+	background-color: #abeafa;
+}
+.left-block{
+	width: 270px;
+	height: 476px;
+	margin-left: 165px;
+}
+ul{
+	border: 1px solid black;
+}
